@@ -1,0 +1,18 @@
+import java.util.HashMap;
+class Solution {
+    public int majorityElement(int[] nums) {
+        
+        int a = nums.length/2;
+
+        HashMap<Integer, Integer> xyz = new HashMap<>();
+
+        for(int i=0; i<nums.length; i++){
+            xyz.put(nums[i], xyz.getOrDefault(nums[i],0)+1);
+        }
+        for(Map.Entry<Integer,Integer> entry : xyz.entrySet()){
+            if(entry.getValue()>a)
+            return entry.getKey();
+        }
+        return -1;
+    }
+}
