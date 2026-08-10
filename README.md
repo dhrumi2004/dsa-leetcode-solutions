@@ -10,6 +10,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Stack
 |  |
