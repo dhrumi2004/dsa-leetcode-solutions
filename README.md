@@ -6,6 +6,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Math
@@ -26,4 +27,12 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0155-min-stack) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
