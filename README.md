@@ -7,6 +7,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0136-single-number](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Math
@@ -35,4 +36,12 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0055-jump-game) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
