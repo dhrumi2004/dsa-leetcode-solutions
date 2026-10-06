@@ -15,6 +15,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | ------- |
 | [0009-palindrome-number](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0202-happy-number) |
 ## Stack
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0202-happy-number](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0202-happy-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## String
 |  |
@@ -61,4 +63,12 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
