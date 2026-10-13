@@ -11,6 +11,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | [0136-single-number](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0500-keyboard-row](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0500-keyboard-row) |
+| [1929-concatenation-of-array](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
@@ -74,4 +75,8 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0202-happy-number) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
