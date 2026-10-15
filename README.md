@@ -12,6 +12,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0500-keyboard-row](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0500-keyboard-row) |
 | [1929-concatenation-of-array](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0055-jump-game) |
+| [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 ## Sorting
 |  |
 | ------- |
@@ -71,6 +73,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | ------- |
 | [0202-happy-number](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0202-happy-number) |
 | [0500-keyboard-row](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0500-keyboard-row) |
+| [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -79,4 +82,8 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1929-concatenation-of-array) |
+## Counting
+|  |
+| ------- |
+| [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 <!---LeetCode Topics End-->
