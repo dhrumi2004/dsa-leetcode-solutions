@@ -65,6 +65,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | [0097-interleaving-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0500-keyboard-row](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0796-rotate-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0796-rotate-string) |
 ## Manacher
 |  |
 | ------- |
@@ -89,4 +90,8 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | ------- |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [3046-split-the-array](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/3046-split-the-array) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
