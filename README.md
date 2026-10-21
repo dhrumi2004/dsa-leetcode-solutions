@@ -44,6 +44,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0055-jump-game) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 ## Sorting
 |  |
@@ -67,6 +68,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | [0500-keyboard-row](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0796-rotate-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1528-shuffle-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1528-shuffle-string) |
 ## Manacher
 |  |
@@ -90,6 +92,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 ## Counting
 |  |
 | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [3046-split-the-array](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/3046-split-the-array) |
 ## String Matching
