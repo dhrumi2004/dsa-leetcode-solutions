@@ -77,6 +77,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | [1048-longest-string-chain](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1528-shuffle-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1528-shuffle-string) |
+| [3210-find-the-encrypted-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/3210-find-the-encrypted-string) |
 ## Manacher
 |  |
 | ------- |
