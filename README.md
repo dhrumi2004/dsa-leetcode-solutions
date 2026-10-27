@@ -71,6 +71,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0097-interleaving-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0097-interleaving-string) |
+| [0205-isomorphic-strings](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0500-keyboard-row](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -88,6 +89,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0500-keyboard-row](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0500-keyboard-row) |
 | [1048-longest-string-chain](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
