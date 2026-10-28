@@ -32,6 +32,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 |  |
 | ------- |
 | [0136-single-number](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Design
 |  |
 | ------- |
@@ -112,4 +113,8 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0796-rotate-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
