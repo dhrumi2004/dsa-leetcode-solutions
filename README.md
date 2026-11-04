@@ -28,6 +28,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0155-min-stack) |
+| [0844-backspace-string-compare](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -66,6 +67,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | [0202-happy-number](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0202-happy-number) |
 | [0541-reverse-string-ii](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1048-longest-string-chain](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1048-longest-string-chain) |
 ## String
 |  |
@@ -78,6 +80,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | [0557-reverse-words-in-a-string-iii](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [0844-backspace-string-compare](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1048-longest-string-chain](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1528-shuffle-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1528-shuffle-string) |
@@ -102,6 +105,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Counting
 |  |
