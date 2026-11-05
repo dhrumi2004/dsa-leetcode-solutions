@@ -83,6 +83,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | [0844-backspace-string-compare](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1048-longest-string-chain](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1370-increasing-decreasing-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [1528-shuffle-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1528-shuffle-string) |
 | [3210-find-the-encrypted-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/3210-find-the-encrypted-string) |
 ## Manacher
@@ -96,6 +97,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | [0205-isomorphic-strings](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0500-keyboard-row](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0500-keyboard-row) |
 | [1048-longest-string-chain](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1048-longest-string-chain) |
+| [1370-increasing-decreasing-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [3046-split-the-array](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/3046-split-the-array) |
 ## Floyd's Cycle Finding Algorithm
@@ -111,6 +113,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1370-increasing-decreasing-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [3046-split-the-array](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/3046-split-the-array) |
 ## String Matching
