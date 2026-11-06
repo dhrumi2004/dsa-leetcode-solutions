@@ -28,6 +28,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Bit Manipulation
 |  |
@@ -75,6 +76,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | [0005-longest-palindromic-substring](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0097-interleaving-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0205-isomorphic-strings](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0394-decode-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0394-decode-string) |
 | [0500-keyboard-row](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -124,4 +126,8 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0191-number-of-1-bits) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
