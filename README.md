@@ -66,6 +66,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0202-happy-number](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0202-happy-number) |
+| [0443-string-compression](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0844-backspace-string-compare) |
@@ -77,6 +78,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | [0097-interleaving-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0205-isomorphic-strings](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0394-decode-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0394-decode-string) |
+| [0443-string-compression](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
