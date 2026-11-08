@@ -11,6 +11,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | [0136-single-number](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0500-keyboard-row](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0561-array-partition](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0561-array-partition) |
 | [0806-number-of-lines-to-write-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [1048-longest-string-chain](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1528-shuffle-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1528-shuffle-string) |
@@ -50,12 +51,14 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0055-jump-game) |
+| [0561-array-partition](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0561-array-partition) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0561-array-partition](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0561-array-partition) |
 | [1048-longest-string-chain](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1048-longest-string-chain) |
 ## Quicksort
 |  |
@@ -132,4 +135,8 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0394-decode-string) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
