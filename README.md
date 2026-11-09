@@ -13,6 +13,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | [0500-keyboard-row](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0561-array-partition) |
 | [0806-number-of-lines-to-write-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [0896-monotonic-array](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0896-monotonic-array) |
 | [1048-longest-string-chain](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1528-shuffle-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1929-concatenation-of-array](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1929-concatenation-of-array) |
