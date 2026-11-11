@@ -33,6 +33,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | [0155-min-stack](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1544-make-the-string-great](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1544-make-the-string-great) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | [1221-split-a-string-in-balanced-strings](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1370-increasing-decreasing-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [1528-shuffle-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1528-shuffle-string) |
+| [1544-make-the-string-great](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [3210-find-the-encrypted-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/3210-find-the-encrypted-string) |
 ## Manacher
 |  |
