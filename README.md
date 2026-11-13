@@ -12,6 +12,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0500-keyboard-row](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0561-array-partition) |
+| [0705-design-hashset](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0806-number-of-lines-to-write-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0896-monotonic-array](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0896-monotonic-array) |
@@ -44,6 +45,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0155-min-stack) |
+| [0705-design-hashset](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Dynamic Programming
 |  |
@@ -109,6 +111,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | [0202-happy-number](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0500-keyboard-row](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0705-design-hashset](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0706-design-hashmap) |
 | [1048-longest-string-chain](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1370-increasing-decreasing-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
@@ -150,9 +153,11 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 ## Linked List
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
