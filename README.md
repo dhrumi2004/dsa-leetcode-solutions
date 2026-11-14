@@ -21,6 +21,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | [1929-concatenation-of-array](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3046-split-the-array](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/3046-split-the-array) |
 ## Math
 |  |
@@ -41,6 +42,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | ------- |
 | [0136-single-number](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Design
 |  |
 | ------- |
