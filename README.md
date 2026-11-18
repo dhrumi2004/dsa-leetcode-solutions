@@ -18,6 +18,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | [0896-monotonic-array](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0896-monotonic-array) |
 | [1048-longest-string-chain](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1528-shuffle-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1528-shuffle-string) |
+| [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1929-concatenation-of-array](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
