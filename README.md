@@ -103,6 +103,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | [1370-increasing-decreasing-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [1528-shuffle-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1544-make-the-string-great) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3210-find-the-encrypted-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/3210-find-the-encrypted-string) |
 ## Manacher
