@@ -30,6 +30,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | [0009-palindrome-number](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0202-happy-number) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Stack
 |  |
 | ------- |
@@ -133,6 +134,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | ------- |
 | [0844-backspace-string-compare](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Counting
 |  |
 | ------- |
