@@ -24,6 +24,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3046-split-the-array](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/3046-split-the-array) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Math
 |  |
 | ------- |
@@ -31,6 +32,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0202-happy-number) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Stack
 |  |
 | ------- |
@@ -125,6 +127,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [3046-split-the-array](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/3046-split-the-array) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -143,6 +146,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [3046-split-the-array](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/3046-split-the-array) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## String Matching
 |  |
 | ------- |
@@ -169,4 +173,8 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | ------- |
 | [0705-design-hashset](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0706-design-hashmap) |
+## Number Theory
+|  |
+| ------- |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
