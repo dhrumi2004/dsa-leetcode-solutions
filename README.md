@@ -24,6 +24,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3046-split-the-array](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/3046-split-the-array) |
+| [3452-sum-of-good-numbers](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/3452-sum-of-good-numbers) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Math
 |  |
