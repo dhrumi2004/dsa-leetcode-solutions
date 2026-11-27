@@ -8,6 +8,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | ------- |
 | [0055-jump-game](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0500-keyboard-row](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0500-keyboard-row) |
@@ -72,6 +73,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0561-array-partition) |
 | [1048-longest-string-chain](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1048-longest-string-chain) |
 ## Quicksort
@@ -82,6 +84,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/0541-reverse-string-ii) |
