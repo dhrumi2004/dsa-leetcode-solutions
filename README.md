@@ -112,6 +112,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | [1544-make-the-string-great](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2716-minimize-string-length](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2716-minimize-string-length) |
 | [3210-find-the-encrypted-string](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/3210-find-the-encrypted-string) |
 ## Manacher
 |  |
@@ -130,6 +131,7 @@ Daily DSA and LeetCode problem-solving in Java with optimized solutions and regu
 | [2215-find-the-difference-of-two-arrays](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
+| [2716-minimize-string-length](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/2716-minimize-string-length) |
 | [3046-split-the-array](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/3046-split-the-array) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/dhrumi2004/dsa-leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Floyd's Cycle Finding Algorithm
